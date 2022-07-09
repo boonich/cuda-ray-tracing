@@ -27,9 +27,9 @@ Copyright (C) 2022  boonich
 - OpenGL library (generally comes with the CUDA Toolkit)
 - GLEW library:
 
-    $ sudo apt upgrade
+        $ sudo apt upgrade
 
-    $ sudo apt install libglew-dev
+        $ sudo apt install libglew-dev
 
 ## Compiling and running
 
