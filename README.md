@@ -19,6 +19,7 @@
 - GLEW library:
 
     $ sudo apt upgrade
+
     $ sudo apt install libglew-dev
 
 ## Compiling and running
