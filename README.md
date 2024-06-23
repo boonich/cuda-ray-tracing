@@ -15,7 +15,7 @@ Original code for compiling on Windows in MS Visual C++ can be found here:
 
 https://github.com/straaljager/GPU-path-tracing-with-CUDA-tutorial-2
 
-This version is ported (with minor modifications) to Linux. It has been compiled successfully with gcc on many versions of Linux (CentOS 7, Alma Linux 8, Rocky Linux 8 and Ubuntu 18.04).
+This version is ported (with minor modifications) to Linux. It has been compiled successfully with ```nvcc``` on many versions of Linux (CentOS 7, Alma Linux 8, Rocky Linux 8 and Ubuntu 18.04).
 
 Copyright (C) 2022  boonich
 
